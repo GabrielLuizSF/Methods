@@ -1,7 +1,7 @@
 <div align="center">
 
 # Methods
-How to Create Ruby Methods
+
 </div>
 
 
